@@ -1,4 +1,4 @@
-Sobre Mim
+
 👋 Olá! Sou Daniela, estudante de Análise e Desenvolvimento de Sistemas no último semestre, apaixonado por programação e desenvolvimento web.
 
 Trabalho de Advogado:

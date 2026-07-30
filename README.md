@@ -1,12 +1,31 @@
-​Olá, sou Daniela Menezes! 👋
-​Desenvolvedora Backend Júnior em transição de carreira, graduada em Análise e Desenvolvimento de Sistemas (ADS). Sou movida pelo aprendizado contínuo e pela resolução de desafios técnicos, buscando sempre escrever códigos limpos e funcionais.  
-​🛠️ Tecnologias e Ferramentas:
-​Backend: Node.js, APIs RESTful, SQL.  
-​Frontend: JavaScript (ES6+), TypeScript, HTML5, CSS3, Bootstrap, Sass.  
-​Ferramentas: Git, GitHub, Beekeeper Studio.  
-​🚀 Projetos em Destaque:
-​Sistema de Gerenciamento de Estacionamento: Aplicação autoral focada na manipulação estruturada de dados e aplicação de Programação Orientada a Objetos (POO).  
-​Site Institucional (Casa de Repouso): Desenvolvimento de interface responsiva com HTML5, CSS3 e Bootstrap.  
-​🌐 Conecte-se comigo:
-​Portfólio: danielamg.com  
-​LinkedIn: https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/
+
+
+# Olá! 👋 Eu sou Daniela Menezes
+
+🎓 Formada em Análise e Desenvolvimento de Sistemas (2024).
+
+💻 Desenvolvedora Full Stack Júnior em constante evolução, com foco em Node.js, TypeScript, JavaScript, SQL, PostgreSQL e React.
+
+🚀 Atualmente estudando Node.js, SQL e React, desenvolvendo projetos para fortalecer meu portfólio.
+
+## 🛠️ Tecnologias
+
+*Backend:* Node.js, Express, APIs REST, SQL, PostgreSQL
+
+*Frontend:* HTML5, CSS3, JavaScript, TypeScript, React, Bootstrap
+
+*Ferramentas:* Git, GitHub, VS Code, Beekeeper Studio
+
+## 📂 Projetos em destaque
+
+- 🚗 Sistema de Gerenciamento de Estacionamento
+- 🌐 Site Institucional Responsivo
+- 🎬 API de Filmes (em desenvolvimento)
+
+## 📫 Contato
+
+🌐 Portfólio: https://danielamg.com
+
+💼 LinkedIn: https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/
+
+📧 E-mail: dannye.menezes@hotmail.com 

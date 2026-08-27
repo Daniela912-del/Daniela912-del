@@ -1,13 +1,14 @@
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&animation=fadeIn&section=header" width="100%" />
+  <!-- Banner Sofisticado e Moderno no Topo -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=020617&text=Daniela%20Menezes&desc=Analista%20e%20Desenvolvedora%20de%20Sistemas&descSize=16&fontSize=40&fontColor=8A2BE2&descAlignY=75&animation=fadeIn" width="100%" />
 
+  <!-- Título Dinâmico (com o seu esquema de cores) -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Daniela+Menezes+%F0%9F%91%8B" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Bem-vinda(o)%20ao%20meu%20perfil!%20%F0%9F%91%8B" />
   </h1>
 
-  <h3>Analista e Desenvolvedora de Sistemas</h3>
+  <h3>Tecnologias Principais</h3>
 
   <p>
     Node.js • TypeScript • JavaScript • APIs REST • SQL • PostgreSQL • IA
@@ -15,6 +16,7 @@
 
   <br>
 
+  <!-- Botões de Contato -->
   <a href="https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -151,6 +153,10 @@ Projeto desenvolvido para praticar lógica de programação, organização de c�
   <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<a href="https://github.com/Daniela912-del">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 <br>
@@ -161,4 +167,5 @@ Projeto desenvolvido para praticar lógica de programação, organização de c�
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&animation=fadeIn&section=footer" width="100%" />
+<!-- Banner Sofisticado e Moderno no Rodapé (Combinando com o topo) -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=160&color=020617&animation=fadeIn&section=footer" width="100%" />

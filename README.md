@@ -1,152 +1,183 @@
-<div align="center">👩‍💻 Daniela Menezes
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Desenvolvedora+Backend+Júnior;Node.js+%7C+TypeScript+%7C+JavaScript;APIs+REST+%7C+SQL+%7C+PostgreSQL;ADS+%7C+IA+aplicada+ao+desenvolvimento" alt="Efeito de digitação"><p>
-  <a href="https://www.danielamg.com">
-    <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p></div>---
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&animation=fadeIn&section=header" width="100%" />
 
-👩‍💻 Sobre mim
+<h1>Olá, eu sou Daniela Menezes 👋</h1>
 
-Sou formada em Análise e Desenvolvimento de Sistemas (ADS) e estou em transição para a área de desenvolvimento de software, com foco em Backend.
-
-Tenho estudado e desenvolvido projetos utilizando Node.js, TypeScript, JavaScript, APIs REST e SQL, buscando evoluir principalmente na construção de aplicações backend e integração com bancos de dados.
-
-Também utilizo ferramentas de Inteligência Artificial como apoio aos estudos, desenvolvimento, resolução de problemas e produtividade.
-
-Meu objetivo é conquistar uma oportunidade como Desenvolvedora Backend Júnior e continuar evoluindo por meio de projetos práticos e aprendizado constante.
-
----
-
-🛠️ Tecnologias
-
-Backend
+<h3>Analista e Desenvolvedora de Sistemas</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,fastify" alt="Node.js, TypeScript, JavaScript e Fastify">
-</p>Banco de dados
+Node.js • TypeScript • JavaScript • APIs REST • SQL • PostgreSQL • IA
+</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql" alt="PostgreSQL e MySQL">
-</p>Ferramentas
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code e Postman">
-</p>Outros conhecimentos
+<a href="https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/">
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- APIs REST
-- Prisma ORM
-- SQL
-- PostgreSQL
-- Programação Orientada a Objetos
-- Git e GitHub
-- Desenvolvimento Web
-- Integração com banco de dados
-- Ferramentas de Inteligência Artificial
+<a href="https://portfolio-dev-iota-three.vercel.app/">
+<img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
----
-
-📚 Atualmente estudando
-
-- 🟣 Node.js
-- 🟣 TypeScript
-- 🟣 APIs REST
-- 🟣 SQL e PostgreSQL
-- 🟣 Desenvolvimento Backend
-- 🟣 Integração de IA ao desenvolvimento de software
-
----
-
-🚀 Projetos
-
-🔗 Fastify URL Shortener
-
-API para encurtamento de URLs desenvolvida com foco em Backend.
-
-Tecnologias:
-
-"Node.js" "TypeScript" "Fastify" "Prisma" "PostgreSQL" "REST API"
-
-O projeto possui funcionalidades para criação, consulta, redirecionamento e exclusão de links.
-
-🔗 Deploy:
-https://fastify-url-shortener-2.onrender.com/
-
----
-
-🎬 MovieHub
-
-Projeto pessoal voltado para filmes, criado para praticar desenvolvimento web, organização de aplicações e integração entre frontend e backend.
-
-Tecnologias:
-
-"Node.js" "TypeScript" "JavaScript" "React" "API REST"
-
----
-
-🅿️ Sistema de Gerenciamento de Estacionamento
-
-Projeto desenvolvido para praticar conceitos de Programação Orientada a Objetos e desenvolvimento de aplicações.
-
-Tecnologias:
-
-"JavaScript" "HTML" "CSS"
-
----
-
-🏠 Sistema de Casa de Repouso
-
-Projeto desenvolvido para colocar em prática conceitos de desenvolvimento de sistemas e organização de informações.
-
-Tecnologias:
-
-"JavaScript" "HTML" "CSS"
-
----
-
-🤖 Inteligência Artificial
-
-Utilizo ferramentas de IA como apoio ao desenvolvimento e aprendizado, principalmente para:
-
-- 📚 Estudar programação
-- 🔎 Entender conceitos técnicos
-- 🐛 Identificar e corrigir erros
-- 💡 Criar ideias para projetos
-- 📝 Auxiliar na documentação
-- ⚡ Aumentar a produtividade
-- 💻 Apoiar a escrita e revisão de código
-
-Meu objetivo é unir fundamentos de programação, desenvolvimento Backend e Inteligência Artificial para criar soluções cada vez melhores.
-
----
-
-📊 GitHub
-
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true" alt="Linguagens mais utilizadas"></div>---
-
-🎯 Objetivo profissional
-
-Busco uma oportunidade como Desenvolvedora Backend Júnior, especialmente em ambientes que trabalhem com:
-
-"Node.js" • "TypeScript" • "JavaScript" • "APIs REST" • "SQL" • "PostgreSQL" • "IA"
-
-Tenho interesse em continuar aprendendo, desenvolver soluções práticas e contribuir para projetos reais.
-
----
-
-🌐 Contato
-
-<div align="center"><a href="https://www.danielamg.com">
-  <img src="https://img.shields.io/badge/🌐_Portfólio-8A2BE2?style=for-the-badge" alt="Portfólio">
-</a><a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a></div>---
-
-<div align="center">💜 Em constante evolução, um projeto de cada vez.
-
-Obrigada pela visita! 👩‍💻
+<a href="https://github.com/Daniela912-del">
+<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
+---
+
+## 👩‍💻 Sobre mim
+
+Sou formada em **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira na área de tecnologia, com foco em **desenvolvimento de sistemas e backend**.
+
+Tenho experiência prática em projetos utilizando:
+
+- 🚀 Node.js
+- 🟦 TypeScript
+- 🟨 JavaScript
+- 🔗 APIs REST
+- 🗄️ SQL e PostgreSQL
+- ⚡ Fastify
+- 🔷 Prisma
+- 🛠️ Git e GitHub
+
+Também utilizo **Inteligência Artificial como ferramenta de apoio ao desenvolvimento**, utilizando recursos como GitHub Copilot e Codex para aprendizado, resolução de problemas, revisão de código e produtividade.
+
+Meu objetivo é continuar evoluindo como **Analista e Desenvolvedora de Sistemas**, aprofundando meus conhecimentos em backend, APIs, bancos de dados e aplicações com IA.
+
+---
+
+## 🤖 IA no desenvolvimento
+
+Utilizo Inteligência Artificial como apoio para:
+
+💡 Aprender novas tecnologias  
+🐛 Investigar e corrigir erros  
+🧪 Criar e revisar testes  
+🔎 Revisar código  
+⚡ Aumentar produtividade  
+📚 Entender conceitos e soluções técnicas  
+
+**Ferramentas:** GitHub Copilot • Codex
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔗 Fastify URL Shortener
+
+API de encurtamento de URLs desenvolvida com:
+
+**Node.js • TypeScript • Fastify • Prisma • PostgreSQL**
+
+Funcionalidades:
+
+- Criar URLs encurtadas
+- Listar URLs
+- Redirecionar para URL original
+- Excluir URLs
+- Integração com PostgreSQL
+- Prisma ORM
+- Testes da API
+- Deploy
+
+🔗 [Ver projeto no GitHub](https://github.com/Daniela912-del/fastify-url-shortener)
+
+---
+
+### 🏠 Sistema Casa de Repouso
+
+Projeto desenvolvido para gerenciamento de informações de uma casa de repouso.
+
+🔗 [Ver projetos no meu portfólio](https://portfolio-dev-iota-three.vercel.app/)
+
+---
+
+### 🅿️ Sistema de Gerenciamento de Estacionamento
+
+Projeto desenvolvido para praticar lógica de programação, organização de código e desenvolvimento de sistemas.
+
+🔗 [Ver projetos no meu portfólio](https://portfolio-dev-iota-three.vercel.app/)
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,postgres,prisma,fastify,git,github,vscode" />
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+<div align="center">
+
+🚀 **Node.js**  
+🟦 **TypeScript**  
+🔗 **APIs REST**  
+🗄️ **PostgreSQL / SQL**  
+🧪 **Testes**  
+🤖 **Inteligência Artificial aplicada ao desenvolvimento**
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniela912-del&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniela912-del&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Daniela912-del&theme=tokyonight&hide_border=false"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&color=8A2BE2&center=true&vCenter=true&width=650&lines=Analista+e+Desenvolvedora+de+Sistemas;Node.js+%7C+TypeScript+%7C+JavaScript;Backend+%7C+APIs+REST+%7C+SQL;Desenvolvimento+com+apoio+de+IA;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80"/>
+
+</div>
+
+---
+
+## 📬 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/">
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-dev-iota-three.vercel.app/">
+<img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💜 Construindo, aprendendo e evoluindo um projeto de cada vez.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&animation=fadeIn&section=footer" width="100%" />

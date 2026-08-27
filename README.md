@@ -1,6 +1,6 @@
 <div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&animation=fadeIn&section=header" width="100%" />  <h1>
     Olá, eu sou
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=350&lines=Daniela+Menezes" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=false&vCenter=true&width=260&height=40&lines=Daniela+Menezes" />
     👋
   </h1>  <h3>Analista e Desenvolvedora de Sistemas</h3>  <p>
     Node.js • TypeScript • JavaScript • APIs REST • SQL • PostgreSQL • IA
@@ -10,9 +10,7 @@
     <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>  <a href="https://github.com/Daniela912-del">
     <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-  </a></div>---
-
-👩‍💻 Sobre mim
+  </a></div>👩‍💻 Sobre mim
 
 Sou formada em Análise e Desenvolvimento de Sistemas e estou construindo minha carreira na área de tecnologia, com foco em desenvolvimento de sistemas e backend.
 
@@ -31,8 +29,6 @@ Também utilizo Inteligência Artificial como ferramenta de apoio ao desenvolvim
 
 Meu objetivo é continuar evoluindo como Analista e Desenvolvedora de Sistemas, aprofundando meus conhecimentos em backend, APIs, bancos de dados e aplicações com IA.
 
----
-
 🤖 IA no desenvolvimento
 
 Utilizo Inteligência Artificial como apoio para:
@@ -45,8 +41,6 @@ Utilizo Inteligência Artificial como apoio para:
 📚 Entender conceitos e soluções técnicas
 
 Ferramentas: GitHub Copilot • Codex
-
----
 
 🚀 Projetos em destaque
 
@@ -69,15 +63,11 @@ Funcionalidades:
 
 🔗 "Ver projeto no GitHub" (https://github.com/Daniela912-del/fastify-url-shortener)
 
----
-
 🏠 Sistema Casa de Repouso
 
 Projeto desenvolvido para gerenciamento de informações de uma casa de repouso.
 
 🔗 "Ver projetos no meu portfólio" (https://portfolio-dev-iota-three.vercel.app/)
-
----
 
 🅿️ Sistema de Gerenciamento de Estacionamento
 
@@ -85,13 +75,9 @@ Projeto desenvolvido para praticar lógica de programação, organização de c�
 
 🔗 "Ver projetos no meu portfólio" (https://portfolio-dev-iota-three.vercel.app/)
 
----
-
 🛠️ Tecnologias
 
-<div align="center">  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,postgres,prisma,fastify,git,github,vscode" /></div>---
-
-📚 Atualmente estudando
+<div align="center">  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,postgres,prisma,fastify,git,github,vscode" /></div>📚 Atualmente estudando
 
 <div align="center">🚀 Node.js
 🟦 TypeScript
@@ -100,9 +86,7 @@ Projeto desenvolvido para praticar lógica de programação, organização de c�
 🧪 Testes
 🤖 Inteligência Artificial aplicada ao desenvolvimento
 
-</div>---
-
-📊 Minhas estatísticas
+</div>📊 Minhas estatísticas
 
 <div align="center">📌 Área| 💜 Foco
 🎓 Formação| Análise e Desenvolvimento de Sistemas
@@ -116,15 +100,9 @@ Projeto desenvolvido para praticar lógica de programação, organização de c�
 🤖 Tecnologia complementar| Inteligência Artificial
 🛠️ Versionamento| Git & GitHub
 
-</div>---
+</div>🔥 GitHub Streak
 
-🔥 GitHub Streak
-
-<div align="center">  <img src="https://streak-stats.demolab.com?user=Daniela912-del&theme=tokyonight&hide_border=false"/></div>---
-
-<div align="center">  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&color=8A2BE2&center=true&vCenter=true&width=650&lines=Analista+e+Desenvolvedora+de+Sistemas;Node.js+%7C+TypeScript+%7C+JavaScript;Backend+%7C+APIs+REST+%7C+SQL;Desenvolvimento+com+apoio+de+IA;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80"/></div>---
-
-📬 Vamos nos conectar?
+<div align="center">  <img src="https://streak-stats.demolab.com?user=Daniela912-del&theme=tokyonight&hide_border=false"/></div><div align="center">  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&color=8A2BE2&center=true&vCenter=true&width=650&lines=Analista+e+Desenvolvedora+de+Sistemas;Node.js+%7C+TypeScript+%7C+JavaScript;Backend+%7C+APIs+REST+%7C+SQL;Desenvolvimento+com+apoio+de+IA;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80"/></div>📬 Vamos nos conectar?
 
 <div align="center">  <a href="https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>

@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&animation=fadeIn&section=header" width="100%" />
@@ -130,41 +131,6 @@ Projeto desenvolvido para praticar lógica de programação, organização de c�
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniela912-del&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniela912-del&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Daniela912-del&theme=tokyonight&hide_border=false"/>
-
-</div>
-
----
-
----
-
-## 📊 Estatísticas e Conquistas
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/GitHub-Perfil%20Ativo-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Foco-Backend%20%26%20APIs-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&color=8A2BE2&center=true&vCenter=true&width=650&lines=Analista+e+Desenvolvedora+de+Sistemas;Node.js+%7C+TypeScript+%7C+JavaScript;Backend+%7C+APIs+REST+%7C+SQL;Desenvolvimento+com+apoio+de+IA;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80"/>
@@ -183,10 +149,6 @@ Projeto desenvolvido para praticar lógica de programação, organização de c�
 
 <a href="https://portfolio-dev-iota-three.vercel.app/">
   <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Daniela912-del">
-  <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>

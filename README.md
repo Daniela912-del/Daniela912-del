@@ -102,9 +102,21 @@ Projeto desenvolvido para praticar lógica de programação, organização de c�
 
 </div>---
 
-📊 GitHub Stats
+📊 Minhas estatísticas
 
-<div align="center">  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniela912-del&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniela912-del&layout=compact&theme=tokyonight"/></div>---
+<div align="center">📌 Área| 💜 Foco
+🎓 Formação| Análise e Desenvolvimento de Sistemas
+💻 Área| Desenvolvimento de Sistemas
+🚀 Especialização atual| Backend
+🟢 Principal tecnologia| Node.js
+🔷 Linguagem| TypeScript
+🟨 Linguagem| JavaScript
+🗄️ Banco de dados| PostgreSQL / SQL
+🔗 Arquitetura| APIs REST
+🤖 Tecnologia complementar| Inteligência Artificial
+🛠️ Versionamento| Git & GitHub
+
+</div>---
 
 🔥 GitHub Streak
 

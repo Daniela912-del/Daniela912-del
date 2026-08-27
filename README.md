@@ -3,7 +3,7 @@
   <!-- Banner Sofisticado e Moderno no Topo -->
   <img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=020617&text=Daniela%20Menezes&desc=Analista%20e%20Desenvolvedora%20de%20Sistemas&descSize=16&fontSize=40&fontColor=8A2BE2&descAlignY=75&animation=fadeIn" width="100%" />
 
-  <!-- Título Dinâmico (com o seu esquema de cores) -->
+  <!-- Título Dinâmico -->
   <h1>
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Bem-vinda(o)%20ao%20meu%20perfil!%20%F0%9F%91%8B" />
   </h1>
@@ -133,6 +133,28 @@ Projeto desenvolvido para praticar lógica de programação, organização de c�
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniela912-del&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniela912-del&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniela912-del&theme=tokyonight"/>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&color=8A2BE2&center=true&vCenter=true&width=650&lines=Analista+e+Desenvolvedora+de+Sistemas;Node.js+%7C+TypeScript+%7C+JavaScript;Backend+%7C+APIs+REST+%7C+SQL;Desenvolvimento+com+apoio+de+IA;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80"/>
@@ -163,9 +185,14 @@ Projeto desenvolvido para praticar lógica de programação, organização de c�
 
 <div align="center">
 
+<!-- Ilustração de Desenvolvedora / Bonequinha estilo Pixel/Chibi para o rodapé -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Badges/main/Computer%20Girl.gif" width="180" />
+
+<br><br>
+
 ### 💜 Construindo, aprendendo e evoluindo um projeto de cada vez.
 
 </div>
 
-<!-- Banner Sofisticado e Moderno no Rodapé (Combinando com o topo) -->
-<img src="https://capsule-render.vercel.app/api?type=soft&height=160&color=020617&animation=fadeIn&section=footer" width="100%" />
+<!-- Banner Sofisticado no Rodapé -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=140&color=020617&animation=fadeIn&section=footer" width="100%" />

@@ -67,7 +67,7 @@ Funcionalidades:
 
 Projeto desenvolvido para gerenciamento de informações de uma casa de repouso.
 
-🔗 "Ver projetos no meu portfólio" (https://portfolio-dev-iota-three.vercel.app/)
+🔗 "Ver projetos no meu portfólio" (https://portfolio-daniela-e8a69mvb9-daniela-s-projects-cbec7963.vercel.app/)
 
 🅿️ Sistema de Gerenciamento de Estacionamento
 

@@ -67,13 +67,13 @@ Funcionalidades:
 
 Projeto desenvolvido para gerenciamento de informações de uma casa de repouso.
 
-🔗 "Ver projetos no meu portfólio" (https://portfolio-daniela-e8a69mvb9-daniela-s-projects-cbec7963.vercel.app/)
+🔗 "Ver projetos no meu portfólio" (https://site-para-casa-de-repouso.vercel.app/)
 
 🅿️ Sistema de Gerenciamento de Estacionamento
 
 Projeto desenvolvido para praticar lógica de programação, organização de código e desenvolvimento de sistemas.
 
-🔗 "Ver projetos no meu portfólio" (https://portfolio-dev-iota-three.vercel.app/)
+🔗 "Ver projetos no meu portfólio" (https://sistema-de-estacionamento-rggd.vercel.app/)
 
 🛠️ Tecnologias
 

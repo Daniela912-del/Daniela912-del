@@ -6,7 +6,7 @@
     Node.js • TypeScript • JavaScript • APIs REST • SQL • PostgreSQL • IA
   </p>  <br>  <a href="https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>  <a href="https://portfolio-dev-iota-three.vercel.app/">
+  </a>  <a href="https://portfolio-daniela-e8a69mvb9-daniela-s-projects-cbec7963.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>  <a href="https://github.com/Daniela912-del">
     <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>

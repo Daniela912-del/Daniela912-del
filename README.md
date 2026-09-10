@@ -1,4 +1,6 @@
-<div align="center"><img src="./banner.png" width="100%" alt="Daniela Menezes Guimarães - Desenvolvedora Full Stack Júnior"><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Daniela+Menezes+Guimar%C3%A3es+%F0%9F%91%8B;Desenvolvedora+Full+Stack+J%C3%BAnior+%F0%9F%92%BB;Node.js+%7C+TypeScript+%7C+React;Construindo+solu%C3%A7%C3%B5es+com+tecnologia+%F0%9F%9A%80" alt="Typing SVG"></div>---
+<div align="center"><img src="https://raw.githubusercontent.com/Daniela912-del/Daniela912-del/main/banner.png" width="100%" alt="Daniela Menezes Guimarães"><br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+Daniela+Menezes+Guimar%C3%A3es+%F0%9F%91%8B;Desenvolvedora+Full+Stack+J%C3%BAnior+%F0%9F%92%BB;Node.js+%7C+TypeScript+%7C+React;Construindo+solu%C3%A7%C3%B5es+com+tecnologia+%F0%9F%9A%80" alt="Typing SVG"></div>---
 
 👩‍💻 Sobre mim
 
@@ -8,7 +10,7 @@ Sou desenvolvedora em início de carreira, com foco em Backend e desenvolvimento
 
 Tenho desenvolvido projetos práticos utilizando Node.js, TypeScript, React, PostgreSQL e Prisma, aplicando conceitos de APIs REST, banco de dados, regras de negócio e integração entre aplicações.
 
-Atualmente também estou estudando Java, ampliando minha base para atuar em ambientes corporativos e projetos de maior escala.
+Atualmente também estudo Java, ampliando minha base para atuar em ambientes corporativos.
 
 ---
 
@@ -48,11 +50,9 @@ Ferramentas
 
 Aplicação web desenvolvida com React e TypeScript para apresentação de produtos e categorias.
 
-O projeto está sendo evoluído para uma solução mais completa, com possibilidade de integração com Node.js, PostgreSQL, Prisma, usuários e pedidos.
+O projeto está sendo evoluído para uma solução com possibilidade de integração com Node.js, PostgreSQL, Prisma, usuários e pedidos.
 
-Tecnologias: React · TypeScript · Bootstrap
-
-🔗 Repositório: "Cardápio Digital" (https://github.com/Daniela912-del/Card-pio-_digital_interativo-)
+🔗 "Ver repositório" (https://github.com/Daniela912-del/Card-pio-_digital_interativo-)
 
 ---
 
@@ -60,7 +60,7 @@ Tecnologias: React · TypeScript · Bootstrap
 
 API REST para criação e gerenciamento de URLs encurtadas.
 
-Tecnologias: Node.js · TypeScript · Fastify · Prisma · PostgreSQL
+Node.js · TypeScript · Fastify · Prisma · PostgreSQL
 
 Conceitos aplicados:
 
@@ -72,7 +72,7 @@ Conceitos aplicados:
 - PostgreSQL
 - Persistência de dados
 
-🔗 Repositório: "Fastify URL Shortener" (https://github.com/Daniela912-del/fastify-url-shortener)
+🔗 "Ver repositório" (https://github.com/Daniela912-del/fastify-url-shortener)
 
 ---
 
@@ -94,35 +94,23 @@ Evoluções planejadas:
 
 Site responsivo desenvolvido para apresentação de serviços de um escritório.
 
-Tecnologias: HTML5 · CSS3 · Bootstrap
+HTML5 · CSS3 · Bootstrap
 
-🌐 Aplicação: "Ver projeto" (https://escritorio-advocacia-html-css.vercel.app/)
+🌐 "Ver aplicação" (https://escritorio-advocacia-html-css.vercel.app/)
 
 ---
 
 📚 Atualmente estudando
 
-Node.js + TypeScript
-        ↓
-APIs REST
-        ↓
-PostgreSQL + SQL + Prisma
-        ↓
-React
-        ↓
-Integração Full Stack
-        ↓
-Java
+<div align="center">"Node.js" → "TypeScript" → "APIs REST" → "PostgreSQL" → "Prisma" → "React" → "Java"
 
-Meu objetivo é consolidar conhecimento através de projetos práticos, evoluindo gradualmente a complexidade das aplicações.
+</div>Meu foco é consolidar os conhecimentos através de projetos práticos, aumentando gradualmente a complexidade das aplicações.
 
 ---
 
 🤖 Inteligência Artificial
 
 Utilizo ferramentas de IA como apoio ao desenvolvimento e aprendizado.
-
-Utilizo IA para:
 
 🔎 Pesquisa técnica
 📖 Documentação
@@ -143,7 +131,7 @@ Busco uma oportunidade Júnior em:
 🚀 Desenvolvimento Full Stack
 🏢 Análise de Sistemas
 
-Tenho interesse especialmente em ambientes corporativos onde possa trabalhar com:
+Tenho interesse em ambientes corporativos onde possa trabalhar com:
 
 - APIs e serviços
 - Banco de dados
@@ -156,9 +144,7 @@ Tenho interesse especialmente em ambientes corporativos onde possa trabalhar com
 
 🌐 Portfólio
 
-<div align="center">💻 Confira meus projetos
-
-"🚀 Acessar meu Portfólio" (https://portfolio-daniela-weld.vercel.app/)
+<div align="center">🚀 "Acessar meu portfólio" (https://portfolio-daniela-weld.vercel.app/)
 
 </div>---
 

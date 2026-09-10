@@ -160,12 +160,11 @@ Formação voltada para conhecimentos em suporte e atendimento na área de tecno
 
 ### 📚 Conhecimentos complementares
 
-* HTML, CSS, JavaScript e TypeScript — OneBitCode
+* HTML, CSS, JavaScript, TypeScript e postgresql  — OneBitCode
 * TypeScript — DIO
-* Python — Udemy
-* Microsoft Power BI — Udemy
-* WordPress
-* Manutenção de loja virtual
+* Python/Power BI  — Udemy
+* WordPress — Udemy
+
 
 ---
 

@@ -26,13 +26,13 @@
 
 ## 💜 Sobre mim
 
-Sou **formada em Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória profissional na área de tecnologia, com foco em **Back-end**.
+Sou formada em Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória profissional na área de tecnologia, com foco em Desenvolvimento Back-end e Análise de Sistemas.
 
-Tenho experiência prática desenvolvendo **projetos próprios**, trabalhando desde a criação de APIs até a integração com banco de dados, testes e deploy.
+Tenho experiência prática desenvolvendo projetos próprios, trabalhando com APIs REST, integração com bancos de dados, lógica de programação e desenvolvimento de aplicações.
 
-Atualmente, estou **focada em continuar evoluindo meus conhecimentos em Node.js, TypeScript, APIs REST, SQL e PostgreSQL**.
+Atualmente, estou aprofundando meus conhecimentos em Node.js, TypeScript, JavaScript, React, SQL e PostgreSQL, buscando evoluir continuamente como desenvolvedora.
 
-Também utilizo ferramentas de **Inteligência Artificial** como apoio aos estudos, desenvolvimento de projetos, resolução de problemas e produtividade.
+Meu objetivo é transformar meus conhecimentos em soluções práticas, desenvolver projetos cada vez mais completos e conquistar minha primeira oportunidade profissional em tecnologia.
 
 ---
 
@@ -156,11 +156,11 @@ Formação com conhecimentos em análise de requisitos, UML, programação orien
 
 **DIO + Randstad — 2026**
 
-Formação voltada para conhecimentos em suporte e atendimento na área de tecnologia.
+Formação voltada para suporte técnico e atendimento na área de tecnologia.
 
 ### 📚 Conhecimentos complementares
 
-* HTML, CSS, JavaScript, TypeScript e postgresql  — OneBitCode
+* HTML, CSS, JavaScript, TypeScript e PostgreSQL  — OneBitCode
 * TypeScript — DIO
 * Python/Power BI  — Udemy
 * WordPress — Udemy

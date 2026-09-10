@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩‍💻 Daniela Menezes Guimarães
+# Daniela Menezes Guimarães
 
 ### Desenvolvedora Backend Júnior
 
@@ -14,17 +14,17 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
-Sou **formada em Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória como **Desenvolvedora Backend Júnior**.
+Sou formada em **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória como **Desenvolvedora Backend Júnior**.
 
-Tenho experiência prática em projetos próprios, desde a criação de APIs até integração com banco de dados, testes e deploy.
+Tenho experiência prática em projetos próprios, trabalhando desde a criação de APIs até a integração com banco de dados, testes e deploy.
 
-Atualmente estou aprofundando meus conhecimentos em **Node.js, TypeScript, APIs REST, SQL e bancos de dados**, além de estar começando meus estudos em **React**.
+Atualmente, estou aprofundando meus conhecimentos em **Node.js, TypeScript, APIs REST, SQL e bancos de dados**, além de estudar **React**.
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -50,76 +50,57 @@ Atualmente estou aprofundando meus conhecimentos em **Node.js, TypeScript, APIs 
 
 ---
 
-## 📊 Áreas de desenvolvimento
+## Projetos
 
-|         Área         | Tecnologias                                 |
-| :------------------: | :------------------------------------------ |
-|    ⚙️ **Backend**    | Node.js · TypeScript · JavaScript · Fastify |
-|     🗄️ **Dados**    | PostgreSQL · Prisma · SQL                   |
-|      🌐 **Web**      | HTML · CSS · Sass · Bootstrap               |
-|    ⚛️ **Frontend**   | React — em aprendizado                      |
-| 🔧 **Versionamento** | Git · GitHub                                |
-|       🤖 **IA**      | GitHub Copilot · Codex                      |
-
----
-
-## 🚀 Projetos
-
-### 🔗 Encurtador de URLs
+### Encurtador de URLs
 
 Projeto desenvolvido para praticar desenvolvimento Backend, criação de APIs e integração com banco de dados.
 
-**Stack:**
+**Tecnologias:**
 `Node.js` · `TypeScript` · `Fastify` · `Prisma` · `PostgreSQL`
 
-### 🌐 Portfólio profissional
+### Portfólio profissional
 
-Meu portfólio profissional, desenvolvido para apresentar minha trajetória, conhecimentos, projetos e informações profissionais.
+Meu portfólio desenvolvido para apresentar minha trajetória, conhecimentos, projetos e informações profissionais.
 
 **Tecnologias:**
 `HTML` · `CSS` · `JavaScript`
 
-👉 **[Ver Portfólio](https://github.com/Daniela912-del/portfolio-daniela)**
+**[Ver projeto no GitHub](https://github.com/Daniela912-del/portfolio-daniela)**
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
-```text
-                    DESENVOLVIMENTO
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-          BACKEND                    FRONTEND
-             │                           │
-     ┌───────┼────────┐                  │
-     │       │        │                  │
- Node.js TypeScript  SQL               React
-     │       │        │                  │
-     └───────┴────────┘                  │
-             │                           │
-          APIs REST              Em aprendizado
-```
+**Backend**
+
+Node.js · TypeScript · APIs REST · SQL · PostgreSQL
+
+**Frontend**
+
+React
+
+Meu foco principal atualmente é continuar evoluindo no desenvolvimento Backend e fortalecer minha base para atuar profissionalmente na área.
 
 ---
 
-## 🤖 Inteligência Artificial
+## Inteligência Artificial
 
 Utilizo **GitHub Copilot e Codex** como ferramentas de apoio durante meus estudos e desenvolvimento.
 
-Uso IA para explorar soluções, entender problemas, pesquisar alternativas, aumentar minha produtividade e apoiar meu aprendizado.
+A IA faz parte do meu processo para explorar soluções, compreender problemas, pesquisar alternativas e aumentar minha produtividade, sempre buscando entender o código e as decisões por trás das soluções.
 
 ---
 
-## 🎯 Objetivo profissional
+## Objetivo profissional
 
 Estou em busca da minha **primeira oportunidade profissional na área de desenvolvimento**, especialmente em posições de **Backend Júnior**.
 
-Meu objetivo é aplicar meus conhecimentos em projetos reais, aprender com uma equipe de tecnologia e continuar evoluindo profissionalmente.
+Busco aplicar meus conhecimentos em projetos reais, aprender com uma equipe de tecnologia e continuar evoluindo como desenvolvedora.
 
 ---
 
-## 🌐 Conecte-se comigo
+## Conecte-se comigo
 
 <div align="center">
 
@@ -137,12 +118,10 @@ Meu objetivo é aplicar meus conhecimentos em projetos reais, aprender com uma e
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
-
-### ✨ Em constante aprendizado, construindo projetos e evoluindo como desenvolvedora.
+**Em constante aprendizado, construindo projetos e evoluindo como desenvolvedora.**
 
 </div>

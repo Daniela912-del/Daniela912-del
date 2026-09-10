@@ -1,127 +1,178 @@
-<div align="center">
+👋 Olá, eu sou Daniela Menezes
 
-# Daniela Menezes Guimarães
+Desenvolvedora Full Stack Júnior | Backend | Node.js | TypeScript | React
 
-### Desenvolvedora Backend Júnior
+🎓 Análise e Desenvolvimento de Sistemas — formada em 2024
 
-**Node.js · TypeScript · JavaScript · APIs REST · SQL**
+Desenvolvedora em início de carreira, com foco na construção de APIs, aplicações web e sistemas orientados a dados.
 
-<br>
+Tenho desenvolvido projetos práticos utilizando Node.js, TypeScript, React, PostgreSQL e Prisma, buscando aplicar conceitos de arquitetura, organização de código, integração entre sistemas e persistência de dados.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Desenvolvedora+Backend+Júnior;Node.js+%7C+TypeScript+%7C+APIs+REST;Construindo+projetos+evoluindo+todos+os+dias" />
-
-</div>
+Atualmente também estou ampliando minha base em Java, com interesse em ambientes corporativos e desenvolvimento de sistemas de maior escala.
 
 ---
 
-## Sobre mim
+💻 Stack
 
-Sou formada em **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória como **Desenvolvedora Backend Júnior**.
+Backend
 
-Tenho experiência prática em projetos próprios, trabalhando desde a criação de APIs até a integração com banco de dados, testes e deploy.
+"Node.js" "TypeScript" "JavaScript" "Fastify" "APIs REST"
 
-Atualmente, estou aprofundando meus conhecimentos em **Node.js, TypeScript, APIs REST, SQL e bancos de dados**, além de estudar **React**.
+Banco de Dados
 
----
+"PostgreSQL" "SQL" "Prisma ORM"
 
-## Tecnologias
+Frontend
 
-<div align="center">
+"React" "TypeScript" "Bootstrap" "React Bootstrap" "HTML5" "CSS3"
 
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,fastify,postgres,prisma,html,css,sass,bootstrap,react,git,github" />
+Ferramentas
 
-</div>
+"Git" "GitHub" "VS Code" "pgAdmin" "Thunder Client"
 
-### Backend
+Em evolução
 
-`Node.js` · `TypeScript` · `JavaScript` · `Fastify` · `APIs REST`
-
-### Banco de dados
-
-`PostgreSQL` · `Prisma` · `SQL`
-
-### Frontend
-
-`HTML` · `CSS` · `Sass` · `Bootstrap` · `React — em aprendizado`
-
-### Ferramentas
-
-`Git` · `GitHub` · `GitHub Copilot` · `Codex`
+"Java" "JWT" "Autenticação" "Validação" "Docker" "AWS"
 
 ---
 
-## Projetos
+🚀 Projetos em destaque
 
-### Encurtador de URLs
+🔗 Fastify URL Shortener
 
-Projeto desenvolvido para praticar desenvolvimento Backend, criação de APIs e integração com banco de dados.
+API REST para criação, consulta e gerenciamento de URLs encurtadas.
 
-**Tecnologias:**
-`Node.js` · `TypeScript` · `Fastify` · `Prisma` · `PostgreSQL`
+Tecnologias: Node.js · TypeScript · Fastify · Prisma · PostgreSQL
 
-### Portfólio profissional
+Conceitos aplicados:
 
-Meu portfólio desenvolvido para apresentar minha trajetória, conhecimentos, projetos e informações profissionais.
+- Desenvolvimento de API REST
+- CRUD
+- Persistência de dados
+- ORM
+- Banco de dados relacional
+- Rotas e parâmetros
+- Testes de endpoints
 
-**Tecnologias:**
-`HTML` · `CSS` · `JavaScript`
-
-**[Ver projeto no GitHub](https://github.com/Daniela912-del/portfolio-daniela)**
+"🔎 Ver repositório" (https://github.com/Daniela912-del/fastify-url-shortener)
 
 ---
 
-## Atualmente estudando
+🍽️ Cardápio Digital
 
-**Backend**
+Aplicação web para gerenciamento e apresentação de produtos de um estabelecimento, desenvolvida com possibilidade de evolução para usuários, pedidos e integração com banco de dados.
 
-Node.js · TypeScript · APIs REST · SQL · PostgreSQL
+Tecnologias: React · TypeScript · Bootstrap
 
-**Frontend**
+Próximas evoluções:
 
+- PostgreSQL
+- Prisma
+- Backend com Node.js
+- Cadastro de usuários
+- Pedidos
+- Integração frontend/backend
+
+"🔎 Ver repositório" (https://github.com/Daniela912-del/Card-pio-_digital_interativo-)
+
+---
+
+🚗 Sistema de Estacionamento
+
+Sistema voltado ao gerenciamento de estacionamento, desenvolvido com foco em regras de negócio e organização da aplicação.
+
+Evoluções planejadas:
+
+- PostgreSQL
+- QR Code
+- Fluxo de pagamento
+- Gerenciamento de veículos
+- Controle de vagas
+
+---
+
+⚖️ Sistema Web — Advocacia
+
+Aplicação web responsiva desenvolvida para apresentação de serviços de um escritório.
+
+Tecnologias: HTML5 · CSS3 · Bootstrap
+
+"🌐 Ver aplicação" (https://escritorio-advocacia-html-css.vercel.app/)
+
+---
+
+🧠 O que estou desenvolvendo
+
+Meu foco atual está em fortalecer principalmente:
+
+Backend
+   ↓
+Node.js + TypeScript
+   ↓
+APIs REST
+   ↓
+PostgreSQL + SQL
+   ↓
+Prisma
+   ↓
+Autenticação e autorização
+   ↓
 React
+   ↓
+Integração Full Stack
 
-Meu foco principal atualmente é continuar evoluindo no desenvolvimento Backend e fortalecer minha base para atuar profissionalmente na área.
-
----
-
-## Inteligência Artificial
-
-Utilizo **GitHub Copilot e Codex** como ferramentas de apoio durante meus estudos e desenvolvimento.
-
-A IA faz parte do meu processo para explorar soluções, compreender problemas, pesquisar alternativas e aumentar minha produtividade, sempre buscando entender o código e as decisões por trás das soluções.
+Paralelamente, estudo Java para ampliar minha base de programação e me preparar para ambientes corporativos que utilizam o ecossistema Java.
 
 ---
 
-## Objetivo profissional
+🤖 Inteligência Artificial no desenvolvimento
 
-Estou em busca da minha **primeira oportunidade profissional na área de desenvolvimento**, especialmente em posições de **Backend Júnior**.
+Utilizo ferramentas de IA como apoio ao desenvolvimento e aprendizado, principalmente para:
 
-Busco aplicar meus conhecimentos em projetos reais, aprender com uma equipe de tecnologia e continuar evoluindo como desenvolvedora.
+- Pesquisa técnica
+- Documentação
+- Análise e correção de erros
+- Revisão de código
+- Exploração de soluções
+- Aumento de produtividade
+
+Meu objetivo é utilizar IA de forma responsável, mantendo o foco em entender os fundamentos e saber explicar as soluções implementadas.
 
 ---
 
-## Conecte-se comigo
+🎯 Objetivo profissional
 
-<div align="center">
+Tenho interesse em oportunidades de Desenvolvimento Backend, Full Stack e Análise de Sistemas, especialmente em ambientes corporativos onde possa trabalhar com:
 
-<a href="https://github.com/Daniela912-del">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+- APIs e serviços
+- Banco de dados
+- Sistemas internos
+- Integrações
+- Regras de negócio
+- Desenvolvimento e manutenção de aplicações
 
-<a href="https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+Busco uma oportunidade Júnior para aplicar meus conhecimentos, aprender com profissionais experientes e evoluir dentro de um ambiente de engenharia de software.
 
-<a href="https://github.com/Daniela912-del/portfolio-daniela">
-<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+---
 
-</div>
+📊 GitHub
 
-<br>
+Aqui você encontrará projetos desenvolvidos durante minha evolução técnica, com melhorias contínuas de arquitetura, funcionalidades e tecnologias.
 
-<div align="center">
+«Código é aprendizado na prática. Cada projeto representa uma etapa da minha evolução como desenvolvedora. 🚀»
 
-**Em constante aprendizado, construindo projetos e evoluindo como desenvolvedora.**
+---
 
-</div>
+🌐 Portfólio
+
+💼 Portfólio:
+https://portfolio-daniela-weld.vercel.app/
+
+🐙 GitHub:
+https://github.com/Daniela912-del
+
+---
+
+Obrigada pela visita! 👋
+
+Estou construindo minha carreira em tecnologia com foco em backend, sistemas, dados e desenvolvimento Full Stack.

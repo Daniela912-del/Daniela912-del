@@ -3,7 +3,7 @@
 # 👋 Olá, eu sou Daniela Menezes Guimarães
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=6D28D9&center=true&vCenter=true&width=700&height=50&lines=Analista+de+Sistemas;Foco+em+Back-end;Node.js+%7C+TypeScript+%7C+APIs+REST;Sempre+aprendendo+e+evoluindo" alt="Efeito de digitação">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=6D28D9&center=true&vCenter=true&width=700&height=50&lines=Analista+de+Sistemas+Jr;Foco+em+Back-end;Node.js+%7C+TypeScript+%7C+APIs+REST;Sempre+aprendendo+e+evoluindo" alt="Efeito de digitação">
 </a>
 
 <br>
@@ -26,15 +26,15 @@
 
 ## 💜 Sobre mim
 
-Sou formada em Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória profissional na área de tecnologia, com foco em Desenvolvimento Back-end e Análise de Sistemas.
+Sou formada em Análise e Desenvolvimento de Sistemas e estou construindo minha carreira como Analista de Sistemas Júnior.
 
-Tenho experiência prática desenvolvendo projetos próprios, trabalhando com APIs REST, integração com bancos de dados, lógica de programação e desenvolvimento de aplicações.
+Tenho conhecimentos em análise de requisitos, levantamento de requisitos, regras de negócio, histórias de usuário, casos de uso, critérios de aceitação, documentação de sistemas, modelagem de dados, SQL, PostgreSQL, APIs REST, integração de sistemas, testes e metodologias ágeis.
 
-Atualmente, estou aprofundando meus conhecimentos em Node.js, TypeScript, JavaScript, React, SQL e PostgreSQL, buscando evoluir continuamente como desenvolvedora.
+Minha base técnica inclui JavaScript, TypeScript, React, Node.js, Fastify, SQL, PostgreSQL, Git e GitHub. Meu conhecimento em desenvolvimento me permite compreender tecnicamente as soluções e contribuir na análise, implementação e evolução de sistemas.
 
-Meu objetivo é transformar meus conhecimentos em soluções práticas, desenvolver projetos cada vez mais completos e conquistar minha primeira oportunidade profissional em tecnologia.
+Tenho interesse em atuar com análise de sistemas, requisitos, processos, documentação, banco de dados, APIs, integração e desenvolvimento, buscando transformar necessidades do negócio em soluções de tecnologia.
 
----
+Estou em busca de uma oportunidade como Analista de Sistemas Júnior, Analista de Requisitos Júnior, Analista Funcional Júnior, Analista de Desenvolvimento Júnior, Analista de TI Júnior, Analista de Integração, Implantação ou Sustentação.
 
 ## 🛠️ Tecnologias
 

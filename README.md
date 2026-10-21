@@ -2,242 +2,218 @@
 
 # 👋 Olá, eu sou Daniela Menezes Guimarães
 
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=6D28D9&center=true&vCenter=true&width=700&height=50&lines=Analista+de+Sistemas+Jr;Foco+em+Back-end;Node.js+%7C+TypeScript+%7C+APIs+REST;Sempre+aprendendo+e+evoluindo" alt="Efeito de digitação">
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=6D28D9&center=true&vCenter=true&width=800&lines=Analista+de+Sistemas+Júnior;Java+|+Oracle+|+SQL;Análise+de+Sistemas+e+Modelagem+de+Dados;Sempre+aprendendo+e+evoluindo)](https://git.io/typing-svg)
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,postgres,git,github" alt="Tecnologias">
+<img src="https://skillicons.dev/icons?i=java,nodejs,typescript,javascript,postgres,git,github" />
 
 <br><br>
 
-<a href="https://portfolio-daniela-weld.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-6D28D9?style=for-the-badge" alt="Portfólio">
+<a href="https://portfolio-daniela-weld.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-6D28D9?style=for-the-badge" />
 </a>
 
-<a href="https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/">
-<img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 💜 Sobre mim
+# 💜 Sobre Mim
 
-Sou formada em Análise e Desenvolvimento de Sistemas e estou construindo minha carreira como Analista de Sistemas Júnior.
+Sou Tecnóloga em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, aprendizado contínuo e resolução de problemas.
 
-Tenho conhecimentos em análise de requisitos, levantamento de requisitos, regras de negócio, histórias de usuário, casos de uso, critérios de aceitação, documentação de sistemas, modelagem de dados, SQL, PostgreSQL, APIs REST, integração de sistemas, testes e metodologias ágeis.
+Tenho conhecimentos em análise de requisitos, levantamento de requisitos, regras de negócio, histórias de usuário, casos de uso, documentação funcional, modelagem de dados, SQL, APIs REST e integração de sistemas.
 
-Minha base técnica inclui JavaScript, TypeScript, React, Node.js, Fastify, SQL, PostgreSQL, Git e GitHub. Meu conhecimento em desenvolvimento me permite compreender tecnicamente as soluções e contribuir na análise, implementação e evolução de sistemas.
+Minha trajetória inclui estudos e projetos utilizando Java, Oracle Database, SQL, JavaScript, TypeScript, Node.js, PostgreSQL, Git, GitHub, Python e WordPress.
 
-Tenho interesse em atuar com análise de sistemas, requisitos, processos, documentação, banco de dados, APIs, integração e desenvolvimento, buscando transformar necessidades do negócio em soluções de tecnologia.
+Atualmente, estou direcionando meu foco para Java, Oracle e desenvolvimento back-end, buscando consolidar minha carreira como Analista de Sistemas e Desenvolvedora Java.
 
-Estou em busca de uma oportunidade como Analista de Sistemas Júnior, Analista de Requisitos Júnior, Analista Funcional Júnior, Analista de Desenvolvimento Júnior, Analista de TI Júnior, Analista de Integração, Implantação ou Sustentação.
+---
 
-## 🛠️ Tecnologias
+# 🚀 Tecnologias
 
-### 💻 Back-end
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Node.js-6D28D9?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-6D28D9?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Fastify-6D28D9?style=for-the-badge&logo=fastify&logoColor=white">
-<img src="https://img.shields.io/badge/Prisma-6D28D9?style=for-the-badge&logo=prisma&logoColor=white">
-
-</div>
-
-### 🗄️ Banco de dados
+## ☕ Back-end
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PostgreSQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white">
+![Java](https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white)
 
-</div>
+![NodeJS](https://img.shields.io/badge/Node.js-6D28D9?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🌐 Front-end e Web
+![TypeScript](https://img.shields.io/badge/TypeScript-6D28D9?style=for-the-badge&logo=typescript&logoColor=white)
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-6D28D9?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-6D28D9?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-6D28D9?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-6D28D9?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/React-6D28D9?style=for-the-badge&logo=react&logoColor=white">
-
-</div>
-
-### 🔧 Ferramentas
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/WordPress-6D28D9?style=for-the-badge&logo=wordpress&logoColor=white">
-<img src="https://img.shields.io/badge/Power%20BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white">
+![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Projetos
-
-### 🔗 Fastify URL Shortener
-
-API REST para encurtamento de URLs, permitindo criar links curtos, listar registros, redirecionar para as URLs originais e excluir links.
-
-**Tecnologias:** Node.js, TypeScript, Fastify, Prisma e PostgreSQL.
-
----
-
-### 📧 Newsletter
-
-Aplicação para cadastro de usuários em uma newsletter, com funcionalidades para visualizar e excluir os e-mails cadastrados.
-
-**Tecnologias:** Node.js, Express, EJS e JavaScript.
-
----
-
-### ☕ Cardápio Digital
-
-Aplicação de cardápio digital responsiva para um café, com destaque para o especial do dia e apresentação de lanches e bebidas.
-
-**Tecnologias:** React, JavaScript, HTML5, CSS3 e Bootstrap.
-
-🌐 **[Ver projeto](https://cardpiodigira.vercel.app/)**
-
----
-
-### 🏡 Casa Viver Bem
-
-Site institucional responsivo desenvolvido para uma **casa de repouso**, com foco na apresentação do espaço, informações sobre os serviços e uma experiência agradável em diferentes dispositivos.
-
-**Tecnologias:** HTML5, CSS3 e Bootstrap.
-
-🌐 **[Ver projeto](https://site-para-casa-de-repouso.vercel.app/)**
-
----
-
-### 📝 Formulário Funcional
-
-Aplicação de formulário responsivo com validação dos campos, envio de e-mail e páginas de sucesso e erro.
-
-**Tecnologias:** HTML5, CSS3 e FormSubmit.
-
-🌐 **[Ver projeto](https://meu-primeiro-formul-rio-funcional.vercel.app/)**
-
----
-
-### ⚖️ Silva & Mendes — Escritório de Advocacia
-
-Site institucional responsivo desenvolvido para um escritório de advocacia, com apresentação de serviços, áreas de atuação, equipe e informações de contato.
-
-O projeto também conta com **aviso de cookies**.
-
-**Tecnologias:** HTML5, CSS3 e Design Responsivo.
-
-🌐 **[Ver projeto](https://escritorio-advocacia-html-css.vercel.app/)**
-
----
-
-## 🎓 Formação
-
-### 🎓 Análise e Desenvolvimento de Sistemas
-
-**Anhanguera — 2024**
-
-Formação com conhecimentos em análise de requisitos, UML, programação orientada a objetos, estruturas de dados, desenvolvimento Web, Back-end, Java e SQL.
-
-### 💼 Aceleração Randstad — Service Desk
-
-**DIO + Randstad — 2026**
-
-Formação voltada para suporte técnico e atendimento na área de tecnologia.
-
-### 📚 Conhecimentos complementares
-
-* HTML, CSS, JavaScript, TypeScript e PostgreSQL  — OneBitCode
-* TypeScript — DIO
-* Python/Power BI  — Udemy
-* WordPress — Udemy
-
-
----
-
-## 🤖 Inteligência Artificial
-
-Utilizo ferramentas de Inteligência Artificial como apoio ao meu desenvolvimento profissional.
+## 🗄️ Banco de Dados
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ChatGPT-6D28D9?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub%20Copilot-6D28D9?style=for-the-badge&logo=githubcopilot&logoColor=white">
-<img src="https://img.shields.io/badge/Codex-6D28D9?style=for-the-badge&logo=openai&logoColor=white">
+![Oracle](https://img.shields.io/badge/Oracle-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)
 
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br>
-
-Utilizo IA principalmente para:
-
-* 📚 Estudos e aprendizado
-* 💻 Apoio durante o desenvolvimento
-* 🔎 Pesquisa e compreensão de conceitos
-* 🧩 Resolução de problemas
-* ⚡ Produtividade
-
----
-
-## 🌱 Atualmente, estou focada em
-
-<div align="center">
-
-**`Node.js` · `TypeScript` · `APIs REST`**
-
-**`SQL` · `PostgreSQL` · `Desenvolvimento Back-end`**
-
-**`Inteligência Artificial`**
+![SQL](https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Objetivo profissional
-
-Estou em busca da minha **primeira oportunidade profissional na área de tecnologia**, especialmente como:
+## 🌐 Front-end
 
 <div align="center">
 
-### 💻 Desenvolvedora Back-end Júnior
+![HTML5](https://img.shields.io/badge/HTML5-6D28D9?style=for-the-badge&logo=html5&logoColor=white)
 
-**ou**
+![CSS3](https://img.shields.io/badge/CSS3-6D28D9?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🖥️ Analista de Sistemas Júnior
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6D28D9?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![React](https://img.shields.io/badge/React-6D28D9?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
 
-Busco uma oportunidade para **aprender, contribuir, desenvolver minhas habilidades e crescer profissionalmente na área de tecnologia**.
+---
+
+## 🔧 Ferramentas
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)
+
+![WordPress](https://img.shields.io/badge/WordPress-6D28D9?style=for-the-badge&logo=wordpress&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white)
+
+</div>
+
+---
+
+# 🎯 Competências
+
+✅ Análise de Sistemas
+
+✅ Levantamento de Requisitos
+
+✅ Documentação Funcional
+
+✅ Casos de Uso
+
+✅ Regras de Negócio
+
+✅ SQL
+
+✅ Oracle Database
+
+✅ Modelagem de Dados
+
+✅ APIs REST
+
+✅ Integração de Sistemas
+
+✅ Programação Orientada a Objetos (POO)
+
+✅ Desenvolvimento Web
+
+✅ Git e GitHub
+
+---
+
+# 📚 Atualmente Estudando
+
+☕ Java
+
+🗄️ Oracle Database
+
+📊 SQL
+
+📋 Análise de Sistemas
+
+📐 Modelagem de Dados
+
+🔗 APIs REST
+
+💡 Boas práticas de desenvolvimento de software
+
+---
+
+# 🎓 Formação
+
+## 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas
+
+**Anhanguera**
+
+Formação voltada para desenvolvimento de software, bancos de dados, análise de requisitos, modelagem de sistemas, programação orientada a objetos e desenvolvimento web.
+
+---
+
+## 💼 Aceleração Randstad | Service Desk
+
+**DIO + Randstad**
+
+Capacitação focada em suporte técnico, atendimento ao usuário e fundamentos de tecnologia da informação.
+
+---
+
+# 🏆 Certificações
+
+### Front-end | OneBitCode
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Git
+- GitHub
+- Flexbox
+- CSS Grid
+
+### Python 2024 | Udemy
+
+- Python
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Scikit-Learn
+
+### Formação Profissional em WordPress | Udemy
+
+- WordPress
+- Desenvolvimento Web
+- Elementor
+- SEO Básico
+- Gestão de Conteúdo
+
+---
+
+# 🚀 Objetivo Profissional
+
+Estou em busca de oportunidades para atuar como:
+
+### ☕ Desenvolvedora Java Júnior
+
+ou
+
+### 📊 Analista de Sistemas Júnior
+
+Busco contribuir com soluções de tecnologia, aplicar meus conhecimentos, desenvolver novas habilidades e crescer profissionalmente em um ambiente colaborativo e desafiador.
 
 ---
 
 <div align="center">
 
-## 💜 Em constante aprendizado e evolução na tecnologia.
+## 💜 Em constante evolução na tecnologia
 
-<br>
-
-<a href="https://portfolio-daniela-weld.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20MEU%20PORTFÓLIO-6D28D9?style=for-the-badge" alt="Meu Portfólio">
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/">
-<img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+**Java • Oracle • SQL • Análise de Sistemas**
 
 </div>

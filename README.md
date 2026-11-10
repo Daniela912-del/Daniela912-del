@@ -85,20 +85,55 @@ Minha trajetória inclui estudos e projetos com Java, Oracle Database, SQL, Java
 
 # 🌟 Projetos em Destaque
 
+### ☕ Sistema de Envio de Cupons Promocionais
+
+Projeto desenvolvido em Java para simular o envio de cupons promocionais por diferentes canais de comunicação, aplicando conceitos avançados de Programação Orientada a Objetos.
+
+### Tecnologias
+
+`Java` `POO` `Interfaces` `Polimorfismo` `Records` `Lambda`
+
+🔗 **Repositório:**  
+https://github.com/Daniela912-del/Java-envio-de-cupons
+
+---
+
 ### 🔗 Fastify URL Shortener
+
 Aplicação REST para encurtar URLs, listar registros, redirecionar para links originais e excluir entradas.
 
-**Tecnologias:** Node.js, TypeScript, Fastify, Prisma e PostgreSQL.
+### Tecnologias
 
-### ☕ Cardápio Digital
-Projeto de cardápio digital responsivo para um café, com destaque para o especial do dia e layout moderno para dispositivos diferentes.
+`Node.js` `TypeScript` `Fastify` `Prisma` `PostgreSQL`
 
-**Tecnologias:** React, JavaScript, HTML5, CSS3 e Bootstrap.
+🔗 **Repositório:**  
+https://github.com/Daniela912-del/url-shortener
 
-### 🏡 Casa Viver Bem
-Site institucional responsivo para uma casa de repouso, com foco em apresentação dos serviços, estrutura e acessibilidade.
+---
 
-**Tecnologias:** HTML5, CSS3 e Bootstrap.
+### ☕ Cardápio Digital Interativo
+
+Cardápio digital interativo desenvolvido em React com foco em experiência do usuário, interface moderna e responsividade para diferentes dispositivos.
+
+### Tecnologias
+
+`React` `JavaScript` `HTML5` `CSS3` `Bootstrap`
+
+🔗 **Repositório:**  
+https://github.com/Daniela912-del/Card-pio-_digital_interativo-
+
+---
+
+### ⚖️ Site Institucional para Escritório de Advocacia
+
+Website profissional responsivo desenvolvido para apresentação institucional de serviços jurídicos, com foco em experiência do usuário e design moderno.
+
+### Tecnologias
+
+`HTML5` `CSS3` `Responsividade`
+
+🔗 **Repositório:**  
+https://github.com/Daniela912-del/escritorio-advocacia-html-css
 
 ---
 

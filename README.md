@@ -1,109 +1,125 @@
 <div align="center">
 
-# 👋 Olá, eu sou Daniela Menezes Guimarães
+# Daniela Menezes Guimarães
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=6D28D9&center=true&vCenter=true&width=800&lines=Analista+de+Sistemas+Júnior;Java+|+Oracle+|+SQL;Análise+de+Sistemas+e+Modelagem+de+Dados;Sempre+aprendendo+e+evoluindo)](https://git.io/typing-svg)
+### Analista de Sistemas Júnior • Desenvolvedora Java Júnior
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=2563EB&center=true&vCenter=true&width=900&lines=Analista+de+Sistemas+Júnior;Desenvolvedora+Java+Júnior;Java+%7C+Spring+Boot+%7C+PostgreSQL;APIs+REST+%7C+SQL+%7C+Modelagem+de+Dados;Transformando+problemas+em+soluções)](https://git.io/typing-svg)
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,nodejs,typescript,javascript,postgres,git,github" />
-
-<br><br>
+<a href="https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="https://portfolio-daniela-weld.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-6D28D9?style=for-the-badge" alt="Portfolio" />
-</a>
-
-<a href="https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💜 Sobre Mim
+## 💙 Sobre
 
-Sou Tecnóloga em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, aprendizado contínuo e resolução de problemas. Tenho experiência e interesse em análise de requisitos, modelagem de dados, SQL, APIs REST, documentação funcional e integração de sistemas.
+Sou Tecnóloga em Análise e Desenvolvimento de Sistemas (ADS) com interesse em desenvolvimento de software, análise de sistemas e banco de dados.
 
-Minha trajetória inclui estudos e projetos com Java, Oracle Database, SQL, JavaScript, TypeScript, Node.js, PostgreSQL, Git, GitHub, Python e WordPress. Atualmente, estou focando meus estudos em Java, Oracle e desenvolvimento back-end, buscando consolidar minha carreira como Analista de Sistemas e Desenvolvedora Java.
+Gosto de entender regras de negócio, organizar requisitos e transformar necessidades em soluções funcionais. Atualmente desenvolvo projetos utilizando Java, PostgreSQL, SQL e APIs REST, fortalecendo conhecimentos em Programação Orientada a Objetos, modelagem de dados e boas práticas de desenvolvimento.
 
----
-
-# 🚀 Tecnologias
-
-## ☕ Back-end
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6D28D9?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-6D28D9?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white)
-
-</div>
+Busco oportunidades como **Analista de Sistemas Júnior**, **Desenvolvedora Java Júnior** ou **Desenvolvedora Back-End Júnior**, contribuindo com aprendizado constante, atenção aos detalhes e evolução técnica.
 
 ---
 
-## 🗄️ Banco de Dados
+## 💼 Experiência Profissional
 
-<div align="center">
+Antes da minha transição para a área de tecnologia, atuei como Técnica de Enfermagem, experiência que contribuiu para o desenvolvimento de competências que aplico diariamente em estudos e projetos de software.
 
-![Oracle](https://img.shields.io/badge/Oracle-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=databricks&logoColor=white)
+Durante essa trajetória, desenvolvi habilidades como:
 
-</div>
+- Organização e atenção aos detalhes
+- Registro e controle de informações
+- Cumprimento de processos e procedimentos
+- Trabalho em equipe multidisciplinar
+- Comunicação clara com diferentes perfis de pessoas
+- Resolução de problemas sob pressão
+- Responsabilidade e compromisso com resultados
 
----
-
-## 🌐 Front-end
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-6D28D9?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6D28D9?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6D28D9?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-6D28D9?style=for-the-badge&logo=react&logoColor=white)
-
-</div>
+Acredito que essa vivência fortaleceu minha capacidade de compreender necessidades, analisar cenários e construir soluções com mais foco no usuário e nos processos do negócio.
 
 ---
 
-## 🔧 Ferramentas
+## 🛠️ Tecnologias
 
-<div align="center">
+### Back-end
 
-![Git](https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-6D28D9?style=for-the-badge&logo=wordpress&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2563EB?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2563EB?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2563EB?style=flat-square&logo=node.js&logoColor=white)
 
-</div>
+### Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=databricks&logoColor=white)
+
+### Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-2563EB?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2563EB?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-2563EB?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-# 🌟 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### ☕ Sistema de Envio de Cupons Promocionais
+### 🍽️ Sistema de Reserva de Mesas
 
-Projeto desenvolvido em Java para simular o envio de cupons promocionais por diferentes canais de comunicação, aplicando conceitos avançados de Programação Orientada a Objetos.
+Projeto desenvolvido em Java para simular o processo de reserva de mesas em restaurantes, aplicando conceitos fundamentais de desenvolvimento de software e regras de negócio.
 
-### Tecnologias
+A aplicação permite gerenciar reservas por meio de uma interface gráfica construída com Swing, utilizando estruturas de dados, condicionais e laços de repetição para controlar o fluxo da aplicação.
 
-`Java` `POO` `Interfaces` `Polimorfismo` `Records` `Lambda`
+**Competências desenvolvidas:**
+
+- Programação Orientada a Objetos (POO)
+- Collections Framework
+- Estruturas condicionais e laços de repetição
+- Modelagem de regras de negócio
+- Manipulação de dados
+- Interface gráfica com Java Swing
+- Organização e manutenção de código
+
+**Tecnologias:**  
+`Java` `Swing` `Collections` `POO`
+
+🔗 **Repositório:**  
+https://github.com/Daniela912-del/Sistema-de-Reserva-de-Mesas
+
+---
+
+### ☕ Sistema de Envio de Cupons
+
+Aplicação Java desenvolvida para praticar Programação Orientada a Objetos, interfaces, polimorfismo, records e boas práticas de desenvolvimento.
+
+**Tecnologias:**  
+`Java` `POO` `Interfaces` `Polimorfismo` `Records`
 
 🔗 **Repositório:**  
 https://github.com/Daniela912-del/Java-envio-de-cupons
 
 ---
 
-### 🔗 Fastify URL Shortener
+### 🔗 URL Shortener
 
-Aplicação REST para encurtar URLs, listar registros, redirecionar para links originais e excluir entradas.
+API REST para encurtamento e gerenciamento de URLs.
 
-### Tecnologias
-
+**Tecnologias:**  
 `Node.js` `TypeScript` `Fastify` `Prisma` `PostgreSQL`
 
 🔗 **Repositório:**  
@@ -111,123 +127,84 @@ https://github.com/Daniela912-del/url-shortener
 
 ---
 
-### ☕ Cardápio Digital Interativo
+### 🍴 Cardápio Digital Interativo
 
-Cardápio digital interativo desenvolvido em React com foco em experiência do usuário, interface moderna e responsividade para diferentes dispositivos.
+Aplicação desenvolvida em React com foco em responsividade e experiência do usuário.
 
-### Tecnologias
-
-`React` `JavaScript` `HTML5` `CSS3` `Bootstrap`
+**Tecnologias:**  
+`React` `JavaScript` `Bootstrap`
 
 🔗 **Repositório:**  
 https://github.com/Daniela912-del/Card-pio-_digital_interativo-
 
 ---
 
-### ⚖️ Site Institucional para Escritório de Advocacia
+## 📌 Competências
 
-Website profissional responsivo desenvolvido para apresentação institucional de serviços jurídicos, com foco em experiência do usuário e design moderno.
-
-### Tecnologias
-
-`HTML5` `CSS3` `Responsividade`
-
-🔗 **Repositório:**  
-https://github.com/Daniela912-del/escritorio-advocacia-html-css
-
----
-
-# 🎯 Competências
-
-- ✅ Análise de Sistemas
-- ✅ Levantamento de Requisitos
-- ✅ Documentação Funcional
-- ✅ Casos de Uso
-- ✅ Regras de Negócio
-- ✅ SQL
-- ✅ Oracle Database
-- ✅ Modelagem de Dados
-- ✅ APIs REST
-- ✅ Integração de Sistemas
-- ✅ Programação Orientada a Objetos (POO)
-- ✅ Desenvolvimento Web
-- ✅ Git e GitHub
+- Análise de Sistemas
+- Levantamento de Requisitos
+- Modelagem de Dados
+- Documentação Funcional
+- Regras de Negócio
+- SQL
+- PostgreSQL
+- APIs REST
+- Integração de Sistemas
+- Programação Orientada a Objetos (POO)
+- Git e GitHub
 
 ---
 
-# 📚 Atualmente Estudando
+## 📚 Atualmente Aprimorando
 
-- ☕ Java
-- 🗄️ Oracle Database
-- 📊 SQL
-- 📋 Análise de Sistemas
-- 📐 Modelagem de Dados
-- 🔗 APIs REST
-- 💡 Boas práticas de desenvolvimento de software
+- Java
+- Spring Boot
+- PostgreSQL
+- SQL
+- APIs REST
+- Modelagem de Dados
+- Padrões de Projeto
+- Boas Práticas de Desenvolvimento
 
 ---
 
-# 🎓 Formação
+## 🎓 Formação
 
-## 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas
+### 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas
+
 **Anhanguera**
 
-Formação voltada para desenvolvimento de software, bancos de dados, análise de requisitos, modelagem de sistemas, programação orientada a objetos e desenvolvimento web.
+Formação voltada para desenvolvimento de software, banco de dados, análise de requisitos, modelagem de sistemas, programação orientada a objetos e desenvolvimento web.
 
 ---
 
-## 💼 Aceleração Randstad | Service Desk
+### 💼 Aceleração Randstad | Service Desk
+
 **DIO + Randstad**
 
 Capacitação focada em suporte técnico, atendimento ao usuário e fundamentos de tecnologia da informação.
 
 ---
 
-# 🏆 Certificações
+## 🎯 Objetivo
 
-### Front-end | OneBitCode
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Git
-- GitHub
-- Flexbox
-- CSS Grid
+Atuar como:
 
-### Python 2024 | Udemy
-- Python
-- SQL
-- Power BI
-- Pandas
-- NumPy
-- Scikit-Learn
+✅ Analista de Sistemas Júnior
 
-### Formação Profissional em WordPress | Udemy
-- WordPress
-- Desenvolvimento Web
-- Elementor
-- SEO Básico
-- Gestão de Conteúdo
+✅ Desenvolvedora Java Júnior
 
----
+✅ Desenvolvedora Back-End Júnior
 
-# 🚀 Objetivo Profissional
-
-Estou em busca de oportunidades para atuar como:
-
-### ☕ Desenvolvedora Java Júnior
-ou
-### 📊 Analista de Sistemas Júnior
-
-Busco contribuir com soluções de tecnologia, aplicar meus conhecimentos, desenvolver novas habilidades e crescer profissionalmente em um ambiente colaborativo e desafiador.
+✅ Trainee em Tecnologia
 
 ---
 
 <div align="center">
 
-## 💜 Em constante evolução na tecnologia
+### 💙 Java • Spring Boot • PostgreSQL • Análise de Sistemas
 
-**Java • Oracle • SQL • Análise de Sistemas**
+*"Tecnologia não é apenas código. É entender problemas, organizar soluções e gerar valor para as pessoas."*
 
 </div>
+

@@ -1,20 +1,24 @@
 <div align="center">
 
-# Daniela Menezes Guimarães
+  <h1>Daniela Menezes Guimarães</h1>
 
-### Analista de Sistemas Júnior • Desenvolvedora Java Júnior
+  <h3>Analista de Sistemas Júnior • Desenvolvedora Java Júnior</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=2563EB&center=true&vCenter=true&width=900&lines=Analista+de+Sistemas+Júnior;Desenvolvedora+Java+Júnior;Java+%7C+Spring+Boot+%7C+PostgreSQL;APIs+REST+%7C+SQL+%7C+Modelagem+de+Dados;Transformando+problemas+em+soluções)](https://git.io/typing-svg)
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=2563EB&center=true&vCenter=true&width=750&lines=Analista+de+Sistemas+J%C3%BAnior;Desenvolvedora+Java+J%C3%BAnior;Java+%7C+Spring+Boot+%7C+PostgreSQL;APIs+REST+%7C+SQL+%7C+Modelagem+de+Dados;Transformando+problemas+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
+    </a>
+  </p>
 
-<br>
-
-<a href="https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-daniela-weld.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+  <p>
+    <a href="https://www.linkedin.com/in/danielamenezesguimar%C3%A3es/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://portfolio-daniela-weld.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfólio-1E293B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+    </a>
+  </p>
 
 </div>
 
@@ -79,17 +83,23 @@ Acredito que essa vivência fortaleceu minha capacidade de compreender necessida
 
 ## 🚀 Projetos Pessoais em Destaque
 
-💡 Além da formação acadêmica e dos estudos contínuos, mantenho projetos pessoais que desenvolvo de forma independente para aplicar conceitos aprendidos, explorar novas tecnologias e fortalecer meu portfólio profissional.
+> 💡 Além da formação acadêmica e dos estudos contínuos, mantenho projetos pessoais que desenvolvo de forma independente para aplicar conceitos aprendidos, explorar novas tecnologias e fortalecer meu portfólio profissional.
 
 ---
 
 ### ⚖️ Site Institucional para Escritório de Advocacia
 
+<p align="center">
+  <a href="https://escritorio-advocacia-html-css.vercel.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e9b4ce0d-f76d-47bc-8cca-7aa487e7cfd3" width="450" alt="Site Institucional para Escritório de Advocacia">
+  </a>
+</p>
+
 Projeto pessoal autoral desenvolvido do zero para compor meu portfólio, simulando o site institucional de um escritório de advocacia com foco em responsividade, organização visual e experiência do usuário.
 
 ✅ Status: Concluído.
 
-💡 Projeto idealizado, estruturado e desenvolvido integralmente por mim como forma de praticar desenvolvimento Front-end e criação de interfaces profissionais.
+> 💡 Projeto idealizado, estruturado e desenvolvido integralmente por mim como forma de praticar desenvolvimento Front-end e criação de interfaces profissionais.
 
 **Competências desenvolvidas:**
 - HTML5 semântico
@@ -98,24 +108,28 @@ Projeto pessoal autoral desenvolvido do zero para compor meu portfólio, simulan
 - Estruturação de Layouts
 - Organização de Código Front-end
 
-**Tecnologias:**
-`HTML5` `CSS3`
+**Tecnologias:**  
+![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=flat-square&logo=css3&logoColor=white)
 
-🌐 **Deploy:**  
-https://escritorio-advocacia-html-css.vercel.app/
-
-🔗 **Repositório:**  
-https://github.com/Daniela912-del/escritorio-advocacia-html-css
+🌐 **Deploy:** https://escritorio-advocacia-html-css.vercel.app/  
+🔗 **Repositório:** https://github.com/Daniela912-del/escritorio-advocacia-html-css
 
 ---
 
 ### 🏡 Site para Casa de Repouso
 
+<p align="center">
+  <a href="https://site-para-casa-de-repouso.vercel.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/0f6f25b3-30c4-4e27-b67f-cfe51c38713b" width="500" alt="Site para Casa de Repouso">
+  </a>
+</p>
+
 Projeto pessoal autoral desenvolvido para apresentar os serviços e informações de uma casa de repouso por meio de uma interface moderna, acessível e responsiva.
 
 ✅ Status: Concluído.
 
-💡 Projeto idealizado e desenvolvido por mim para praticar HTML, CSS, Bootstrap e construção de interfaces voltadas para necessidades reais.
+> 💡 Projeto idealizado e desenvolvido por mim para praticar HTML, CSS, Bootstrap e construção de interfaces voltadas para necessidades reais.
 
 **Competências desenvolvidas:**
 - HTML5 semântico
@@ -125,24 +139,29 @@ Projeto pessoal autoral desenvolvido para apresentar os serviços e informaçõe
 - Estruturação de páginas web
 - Organização de código Front-end
 
-**Tecnologias:**
-`HTML5` `CSS3` `Bootstrap`
+**Tecnologias:**  
+![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2563EB?style=flat-square&logo=bootstrap&logoColor=white)
 
-🌐 **Deploy:**  
-https://site-para-casa-de-repouso.vercel.app/
-
-🔗 **Repositório:**  
-https://github.com/Daniela912-del/Site-para-casa-de-repouso
+🌐 **Deploy:** https://site-para-casa-de-repouso.vercel.app/  
+🔗 **Repositório:** https://github.com/Daniela912-del/Site-para-casa-de-repouso
 
 ---
 
 ### 🍴 Cardápio Digital Interativo - Graniatta Café ☕
 
+<p align="center">
+  <a href="https://cardpiodigira.vercel.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/be5f17c0-e8f9-43f1-85c1-534f59bf2b03" width="450" alt="cafe">
+  </a>
+</p>
+
 Projeto pessoal autoral desenvolvido para simular o cardápio digital de uma cafeteria, com foco em responsividade, experiência do usuário e navegação intuitiva.
 
 ✅ Status: Concluído.
 
-💡 Projeto criado e desenvolvido por mim para praticar desenvolvimento Front-end, componentização, organização visual e construção de interfaces modernas.
+> 💡 Projeto criado e desenvolvido por mim para praticar desenvolvimento Front-end, componentização, organização visual e construção de interfaces modernas.
 
 **Competências desenvolvidas:**
 - React
@@ -151,14 +170,13 @@ Projeto pessoal autoral desenvolvido para simular o cardápio digital de uma caf
 - Experiência do Usuário (UX)
 - Desenvolvimento Front-end
 
-**Tecnologias:**
-`React` `JavaScript` `Bootstrap`
+**Tecnologias:**  
+![React](https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=flat-square&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2563EB?style=flat-square&logo=bootstrap&logoColor=white)
 
-🌐 **Deploy:**  
-https://cardpiodigira.vercel.app/
-
-🔗 **Repositório:**  
-https://github.com/Daniela912-del/Card-pio-_digital_interativo-
+🌐 **Deploy:** https://cardpiodigira.vercel.app/  
+🔗 **Repositório:** https://github.com/Daniela912-del/Card-pio-_digital_interativo-
 
 ---
 
@@ -168,7 +186,7 @@ Projeto pessoal desenvolvido para criação de uma API REST de encurtamento e ge
 
 ✅ Status: Concluído.
 
-💡 Projeto desenvolvido por mim para praticar criação de APIs, persistência de dados e arquitetura Back-end.
+> 💡 Projeto desenvolvido por mim para praticar criação de APIs, persistência de dados e arquitetura Back-end.
 
 **Competências desenvolvidas:**
 - Desenvolvimento de APIs REST
@@ -178,10 +196,13 @@ Projeto pessoal desenvolvido para criação de uma API REST de encurtamento e ge
 - TypeScript
 
 **Tecnologias:**  
-`Node.js` `TypeScript` `Fastify` `Prisma` `PostgreSQL`
+![Node.js](https://img.shields.io/badge/Node.js-2563EB?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-2563EB?style=flat-square&logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2563EB?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white)
 
-🔗 **Repositório:**  
-https://github.com/Daniela912-del/url-shortener
+🔗 **Repositório:** https://github.com/Daniela912-del/url-shortener
 
 ---
 
@@ -191,7 +212,7 @@ Projeto pessoal em desenvolvimento desenvolvido em Java 27 para simular reservas
 
 🚧 Status: Em desenvolvimento.
 
-💡 Projeto autoral criado para praticar Programação Orientada a Objetos, interfaces e desenvolvimento de aplicações desktop com Java.
+> 💡 Projeto autoral criado para praticar Programação Orientada a Objetos, interfaces e desenvolvimento de aplicações desktop com Java.
 
 **Competências desenvolvidas:**
 - Programação Orientada a Objetos (POO)
@@ -202,10 +223,12 @@ Projeto pessoal em desenvolvimento desenvolvido em Java 27 para simular reservas
 - Desenvolvimento de Interface Gráfica
 
 **Tecnologias:**  
-`Java 27` `Swing` `Git` `GitHub`
+![Java 27](https://img.shields.io/badge/Java_27-2563EB?style=flat-square&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-2563EB?style=flat-square&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2563EB?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2563EB?style=flat-square&logo=github&logoColor=white)
 
-🔗 **Repositório:**  
-https://github.com/Daniela912-del/Sistema-de-Reserva-de-Mesas
+🔗 **Repositório:** https://github.com/Daniela912-del/Sistema-de-Reserva-de-Mesas
 
 ---
 
@@ -215,7 +238,7 @@ Projeto pessoal em desenvolvimento desenvolvido em Java para praticar Programaç
 
 🚧 Status: Em desenvolvimento.
 
-💡 Projeto autoral criado para fortalecer conceitos avançados de orientação a objetos e modelagem de software.
+> 💡 Projeto autoral criado para fortalecer conceitos avançados de orientação a objetos e modelagem de software.
 
 **Competências desenvolvidas:**
 - Programação Orientada a Objetos (POO)
@@ -225,15 +248,15 @@ Projeto pessoal em desenvolvimento desenvolvido em Java para praticar Programaç
 - Encapsulamento
 
 **Tecnologias:**  
-`Java`
-`Interfaces`
-`Polimorfismo`
-`Records`
+![Java](https://img.shields.io/badge/Java-2563EB?style=flat-square&logo=openjdk&logoColor=white)
+![Interfaces](https://img.shields.io/badge/Interfaces-2563EB?style=flat-square)
+![Polimorfismo](https://img.shields.io/badge/Polimorfismo-2563EB?style=flat-square)
+![Records](https://img.shields.io/badge/Records-2563EB?style=flat-square)
 
-🔗 **Repositório:**  
-https://github.com/Daniela912-del/Java-envio-de-cupons
+🔗 **Repositório:** https://github.com/Daniela912-del/Java-envio-de-cupons
 
 ---
+
 ## 📌 Competências
 
 - Análise de Sistemas
@@ -302,4 +325,3 @@ Atuar como:
 *"Tecnologia não é apenas código. É entender problemas, organizar soluções e gerar valor para as pessoas."*
 
 </div>
-

@@ -77,47 +77,105 @@ Acredito que essa vivência fortaleceu minha capacidade de compreender necessida
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos Pessoais em Destaque
 
-### 🍽️ Sistema de Reserva de Mesas
-
-Projeto desenvolvido em Java para simular o processo de reserva de mesas em restaurantes, aplicando conceitos fundamentais de desenvolvimento de software e regras de negócio.
-
-A aplicação permite gerenciar reservas por meio de uma interface gráfica construída com Swing, utilizando estruturas de dados, condicionais e laços de repetição para controlar o fluxo da aplicação.
-
-**Competências desenvolvidas:**
-
-- Programação Orientada a Objetos (POO)
-- Collections Framework
-- Estruturas condicionais e laços de repetição
-- Modelagem de regras de negócio
-- Manipulação de dados
-- Interface gráfica com Java Swing
-- Organização e manutenção de código
-
-**Tecnologias:**  
-`Java` `Swing` `Collections` `POO`
-
-🔗 **Repositório:**  
-https://github.com/Daniela912-del/Sistema-de-Reserva-de-Mesas
+💡 Todos os projetos apresentados nesta seção foram idealizados e desenvolvidos por mim com o objetivo de praticar tecnologias, resolver problemas reais e evoluir continuamente minhas habilidades em desenvolvimento de software.
 
 ---
 
-### ☕ Sistema de Envio de Cupons
+### ⚖️ Site Institucional para Escritório de Advocacia
 
-Aplicação Java desenvolvida para praticar Programação Orientada a Objetos, interfaces, polimorfismo, records e boas práticas de desenvolvimento.
+Projeto pessoal autoral desenvolvido do zero para compor meu portfólio, simulando o site institucional de um escritório de advocacia com foco em responsividade, organização visual e experiência do usuário.
 
-**Tecnologias:**  
-`Java` `POO` `Interfaces` `Polimorfismo` `Records`
+✅ Status: Concluído.
+
+💡 Projeto idealizado, estruturado e desenvolvido integralmente por mim como forma de praticar desenvolvimento Front-end e criação de interfaces profissionais.
+
+**Competências desenvolvidas:**
+- HTML5 semântico
+- CSS3
+- Design Responsivo
+- Estruturação de Layouts
+- Organização de Código Front-end
+
+**Tecnologias:**
+`HTML5` `CSS3`
+
+🌐 **Deploy:**  
+https://escritorio-advocacia-html-css.vercel.app/
 
 🔗 **Repositório:**  
-https://github.com/Daniela912-del/Java-envio-de-cupons
+https://github.com/Daniela912-del/escritorio-advocacia-html-css
+
+---
+
+### 🏡 Site para Casa de Repouso
+
+Projeto pessoal autoral desenvolvido para apresentar os serviços e informações de uma casa de repouso por meio de uma interface moderna, acessível e responsiva.
+
+✅ Status: Concluído.
+
+💡 Projeto idealizado e desenvolvido por mim para praticar HTML, CSS, Bootstrap e construção de interfaces voltadas para necessidades reais.
+
+**Competências desenvolvidas:**
+- HTML5 semântico
+- CSS3
+- Bootstrap
+- Responsividade
+- Estruturação de páginas web
+- Organização de código Front-end
+
+**Tecnologias:**
+`HTML5` `CSS3` `Bootstrap`
+
+🌐 **Deploy:**  
+https://site-para-casa-de-repouso.vercel.app/
+
+🔗 **Repositório:**  
+https://github.com/Daniela912-del/Site-para-casa-de-repouso
+
+---
+
+### 🍴 Cardápio Digital Interativo - Graniatta Café ☕
+
+Projeto pessoal autoral desenvolvido para simular o cardápio digital de uma cafeteria, com foco em responsividade, experiência do usuário e navegação intuitiva.
+
+✅ Status: Concluído.
+
+💡 Projeto criado e desenvolvido por mim para praticar desenvolvimento Front-end, componentização, organização visual e construção de interfaces modernas.
+
+**Competências desenvolvidas:**
+- React
+- Componentização
+- Responsividade
+- Experiência do Usuário (UX)
+- Desenvolvimento Front-end
+
+**Tecnologias:**
+`React` `JavaScript` `Bootstrap`
+
+🌐 **Deploy:**  
+https://cardpiodigira.vercel.app/
+
+🔗 **Repositório:**  
+https://github.com/Daniela912-del/Card-pio-_digital_interativo-
 
 ---
 
 ### 🔗 URL Shortener
 
-API REST para encurtamento e gerenciamento de URLs.
+Projeto pessoal desenvolvido para criação de uma API REST de encurtamento e gerenciamento de URLs, fortalecendo conhecimentos em desenvolvimento Back-end e integração com banco de dados.
+
+✅ Status: Concluído.
+
+💡 Projeto desenvolvido por mim para praticar criação de APIs, persistência de dados e arquitetura Back-end.
+
+**Competências desenvolvidas:**
+- Desenvolvimento de APIs REST
+- Arquitetura Back-end
+- Modelagem de Dados
+- Integração com Banco de Dados
+- TypeScript
 
 **Tecnologias:**  
 `Node.js` `TypeScript` `Fastify` `Prisma` `PostgreSQL`
@@ -127,18 +185,55 @@ https://github.com/Daniela912-del/url-shortener
 
 ---
 
-### 🍴 Cardápio Digital Interativo
+### 🍽️ Sistema de Reserva de Mesas
 
-Aplicação desenvolvida em React com foco em responsividade e experiência do usuário.
+Projeto pessoal em desenvolvimento desenvolvido em Java 27 para simular reservas de mesas em restaurantes por meio de uma interface gráfica construída com Swing.
+
+🚧 Status: Em desenvolvimento.
+
+💡 Projeto autoral criado para praticar Programação Orientada a Objetos, interfaces e desenvolvimento de aplicações desktop com Java.
+
+**Competências desenvolvidas:**
+- Programação Orientada a Objetos (POO)
+- Interfaces
+- Encapsulamento
+- Classes e Objetos
+- Eventos com Java Swing
+- Desenvolvimento de Interface Gráfica
 
 **Tecnologias:**  
-`React` `JavaScript` `Bootstrap`
+`Java 27` `Swing` `Git` `GitHub`
 
 🔗 **Repositório:**  
-https://github.com/Daniela912-del/Card-pio-_digital_interativo-
+https://github.com/Daniela912-del/Sistema-de-Reserva-de-Mesas
 
 ---
 
+### ☕ Sistema de Envio de Cupons
+
+Projeto pessoal em desenvolvimento desenvolvido em Java para praticar Programação Orientada a Objetos, interfaces, polimorfismo, records e organização de código.
+
+🚧 Status: Em desenvolvimento.
+
+💡 Projeto autoral criado para fortalecer conceitos avançados de orientação a objetos e modelagem de software.
+
+**Competências desenvolvidas:**
+- Programação Orientada a Objetos (POO)
+- Interfaces
+- Polimorfismo
+- Records
+- Encapsulamento
+
+**Tecnologias:**  
+`Java`
+`Interfaces`
+`Polimorfismo`
+`Records`
+
+🔗 **Repositório:**  
+https://github.com/Daniela912-del/Java-envio-de-cupons
+
+---
 ## 📌 Competências
 
 - Análise de Sistemas

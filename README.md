@@ -79,7 +79,7 @@ Acredito que essa vivência fortaleceu minha capacidade de compreender necessida
 
 ## 🚀 Projetos Pessoais em Destaque
 
-💡 Todos os projetos apresentados nesta seção foram idealizados e desenvolvidos por mim com o objetivo de praticar tecnologias, resolver problemas reais e evoluir continuamente minhas habilidades em desenvolvimento de software.
+💡 Além da formação acadêmica e dos estudos contínuos, mantenho projetos pessoais que desenvolvo de forma independente para aplicar conceitos aprendidos, explorar novas tecnologias e fortalecer meu portfólio profissional.
 
 ---
 

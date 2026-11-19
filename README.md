@@ -232,7 +232,7 @@ Projeto pessoal em desenvolvimento desenvolvido em Java 27 para simular reservas
 
 ---
 
-### ☕ Sistema de Envio de Cupons
+### ✉️ Sistema de Envio de Cupons
 
 Projeto pessoal em desenvolvimento desenvolvido em Java para praticar Programação Orientada a Objetos, interfaces, polimorfismo, records e organização de código.
 
